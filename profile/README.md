@@ -8,7 +8,7 @@ ENTS-H108 Repository for Capstone Project Bangkit Academy 2024.
 <img src="https://raw.githubusercontent.com/SaveMoneyCapstone/.github/main/profile/Savemoney_banner.png" >
 </div> <br>
 -->
-**SaveMoney: Easy Save Your Money, Makes You Happy**. An application designed to efficiently consolidate and manage finances. With a user-friendly and intuitive interface, this app can help users track their expenses more easily. It also serves as a comprehensive tool that enhances financial literacy and aids individuals in achieving their financial goals. 📱💸
+**Petwell: Easy Care for Your Pets**. An app that uses camera-based disease detection and offers vet consultations via chat. It also helps you find nearby veterinarians with a user-friendly interface, ensuring your pets get the best care effortlessly. 📱🐱🐶
 
 ## Our Member
 
